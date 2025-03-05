@@ -1,0 +1,253 @@
+{
+    "frames": {
+        "fire_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_2": {
+            "frame": {
+                "x": 216,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_3": {
+            "frame": {
+                "x": 432,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_4": {
+            "frame": {
+                "x": 648,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_5": {
+            "frame": {
+                "x": 864,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_6": {
+            "frame": {
+                "x": 1080,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_7": {
+            "frame": {
+                "x": 0,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_8": {
+            "frame": {
+                "x": 216,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_9": {
+            "frame": {
+                "x": 432,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_10": {
+            "frame": {
+                "x": 648,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_11": {
+            "frame": {
+                "x": 864,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        },
+        "fire_12": {
+            "frame": {
+                "x": 1080,
+                "y": 292,
+                "w": 216,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 216,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 216,
+                "h": 292
+            }
+        }
+    },
+    "meta": {
+        "image": "fire_spritesheet.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1300,
+            "h": 585
+        },
+        "scale": "1"
+    }
+}
